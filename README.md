@@ -1,9 +1,9 @@
-# awesome algorithm books
+##awesome algorithm books
 Some awesome algorithm books I collected.
 
 [不断更新中] 搜集整理的算法书籍（经典算法、ML/DL算法、面试算法、比赛算法等） 
 
-> 目录：（目录更新有延迟，大量书籍请看网盘! 后续会添加更多网盘链接）
+> 目录：（目录更新有延迟，大量书籍请看网盘  后续会添加更多网盘链接）
 - [awesome algorithm books](#awesome-algorithm-books)
   - [classic algorithms: 经典算法](#classic-algorithms-经典算法)
   - [ML and DL algorithms: 机器学习与深度学习算法](#ml-and-dl-algorithms-机器学习与深度学习算法)
@@ -103,4 +103,4 @@ Some awesome algorithm books I collected.
 
 * ACM-ICPC_Cheat_Sheet.pdf
 * Stanford_University_ICPC_Team_Notebook.pdf
-* theoretical_computer_science_cheat_sheet.pdf
+* theoretical_computer_science_cheat_sheet.pdf 
